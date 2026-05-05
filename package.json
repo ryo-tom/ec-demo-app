@@ -1,0 +1,5 @@
+{
+  "name": "ec-demo-app",
+  "private": true,
+  "workspaces": ["apps/*"]
+}
